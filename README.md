@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Joshua Ogbonna, a software developer skilled in frontend technologies and loves the serverless world. I love thinking of problems and solutions to them
+- 🔭 I’m currently working on hack productive
+- 🌱 I’m currently learning Blockchain
+- 👯 I’m open to collaborate on interesting projects
